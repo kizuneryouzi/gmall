@@ -3,6 +3,23 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/gmall.iml" filepath="$PROJECT_DIR$/.idea/gmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-cart/goop-cart.iml" filepath="$PROJECT_DIR$/goop-cart/goop-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-common/goop-common.iml" filepath="$PROJECT_DIR$/goop-common/goop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-coupon/goop-coupon.iml" filepath="$PROJECT_DIR$/goop-coupon/goop-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-gateway/goop-gateway.iml" filepath="$PROJECT_DIR$/goop-gateway/goop-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-login-auth/goop-login-auth.iml" filepath="$PROJECT_DIR$/goop-login-auth/goop-login-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-member/goop-member.iml" filepath="$PROJECT_DIR$/goop-member/goop-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-order/goop-order.iml" filepath="$PROJECT_DIR$/goop-order/goop-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-product/goop-product.iml" filepath="$PROJECT_DIR$/goop-product/goop-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-search/goop-search.iml" filepath="$PROJECT_DIR$/goop-search/goop-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-seckill/goop-seckill.iml" filepath="$PROJECT_DIR$/goop-seckill/goop-seckill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-sso-client/goop-sso-client.iml" filepath="$PROJECT_DIR$/goop-sso-client/goop-sso-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-sso-client1/goop-sso-client1.iml" filepath="$PROJECT_DIR$/goop-sso-client1/goop-sso-client1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-sso-server/goop-sso-server.iml" filepath="$PROJECT_DIR$/goop-sso-server/goop-sso-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-third-party/goop-third-party.iml" filepath="$PROJECT_DIR$/goop-third-party/goop-third-party.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goop-ware/goop-ware.iml" filepath="$PROJECT_DIR$/goop-ware/goop-ware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-fast/renren-fast.iml" filepath="$PROJECT_DIR$/renren-fast/renren-fast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/renren-generator/renren-generator.iml" filepath="$PROJECT_DIR$/renren-generator/renren-generator.iml" />
     </modules>
   </component>
 </project>
